@@ -34,7 +34,7 @@ Input | Complexity
 ## Authors
 
 * [Stephen Cliffe](https://www.github.com/nytrode)
-* [Daniel Dalton](https://www.github.com/ddalton98) - Me!
+* [Daniel Dalton](https://www.github.com/ddalton98)
 * [Alan Finnin](https://www.github.com/alanfinnin)
 
 ## License
